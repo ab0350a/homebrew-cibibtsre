@@ -6,7 +6,7 @@ This is the official Homebrew tap for the CIB IB Tech SRE CLI (`cibibtsre`).
 
 ```bash
 # Add the tap
-brew tap absa-group/cibibtsre
+brew tap ab0350a/homebrew-cibibtsre
 
 # Install cibibtsre
 brew install cibibtsre
@@ -18,7 +18,7 @@ cibibtsre --version
 ## One-liner Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/absa-group/cibibtsre-cli-go/main/install-homebrew.sh | bash
+curl -sSL https://raw.githubusercontent.com/ab0350a/homebrew-cibibtsre-cli-go/main/install-homebrew.sh | bash
 ```
 
 ## About
@@ -66,10 +66,10 @@ cibibtsre --help
 
 ## Links
 
-- **Main Repository**: https://github.com/absa-group/cibibtsre-cli-go
-- **Documentation**: https://github.com/absa-group/cibibtsre-cli-go/tree/main/docs
-- **Releases**: https://github.com/absa-group/cibibtsre-cli-go/releases
+- **Main Repository**: https://github.com/ab0350a/homebrew-cibibtsre-cli-go
+- **Documentation**: https://github.com/ab0350a/homebrew-cibibtsre-cli-go/tree/main/docs
+- **Releases**: https://github.com/ab0350a/homebrew-cibibtsre-cli-go/releases
 
 ## Support
 
-For issues, questions, or contributions, please visit the main repository at https://github.com/absa-group/cibibtsre-cli-go.
+For issues, questions, or contributions, please visit the main repository at https://github.com/ab0350a/homebrew-cibibtsre-cli-go.
